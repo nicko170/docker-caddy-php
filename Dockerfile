@@ -1,5 +1,5 @@
-FROM mitcdh/caddy
-MAINTAINER Mitchell Hewes <me@mitcdh.com>
+FROM nick170/caddy
+MAINTAINER Nick Pratley <nick@npratley.net>
 
 # install php
 RUN apk --update add \
